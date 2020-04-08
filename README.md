@@ -1,12 +1,12 @@
 # GitHub Product Roadmap
 
-In this repo, you can find the [official GitHub product roadmap](https://github.com/github/roadmap/projects/1). 
+In this repo, you can find the [official GitHub product roadmap](https://github.com/github/roadmap/projects/1). The Roadmap is currently in a soft launch, read-only state. Over time we anticipate opening up more of the roadmap to discussions and issues.
 
-Our product roadmap is our best estimate of what features we're working on, what stage they're in, and when we expect to bring them to you.
+Our product roadmap is our best estimate of what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Please post them on our [community forums](https://github.community/).
 
 ## Guide to the Roadmap
 
-Every item on the GitHub product roadmap is an issue, tagged with a tag that indicates each of the following:
+Every item on the GitHub product roadmap is an issue, twith a label that indicates each of the following:
 
 - A **feature stage** that describes the next expected stage of the roadmap item. See below for a guide to product stages. 
 
@@ -41,7 +41,7 @@ Feature under consideration. We are considering building this feature, and gathe
 
 ## Milestones
 
-The GitHub product roadmap is arranged on a quarter-by-quarter basis. Every feature is tagged with a quarter in which we expect to deliver the next stage of the feature. The indicated milestone is our best known estimate, and may change as we do development.
+The GitHub product roadmap is arranged on a quarter-by-quarter basis. Every feature is labeled with a quarter in which we expect to deliver the next stage of the feature. The indicated milestone is our best known estimate, and may change as we do development.
 
 GitHub Enterprise Server has major releases on a quarterly basis, and minor releases on a monthly basis. Once we know what version we are delivering a feature, we will update the issue to indicate that information.
 
