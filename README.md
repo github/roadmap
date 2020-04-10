@@ -53,7 +53,7 @@ The following is a list of our current product areas:
 - **planning:** Planning and tracking tools (Issues, Projects)
 - **code-to-cloud:** Code-to-cloud DevOps (Actions, Packages)
 - **collaboration:** Collaboration features (Pages, Wikis, Discussions)
-- **security:** Code security and compliance features
+- **security & compliance:** Code security and compliance features
 - **admin-server:** Administrative features specific to GitHub Enterprise Server
 - **admin-cloud:** Administrative features specific to GitHub Cloud
 - **community:** Community and social features
