@@ -2,7 +2,7 @@
 
 In this repo, you can find the [official GitHub product roadmap](https://github.com/github/roadmap/projects/2). The roadmap is currently in a read-only state, with locked conversations, as we get started. However, we anticipate being able to engage more in discussions about the future of GitHub products and features, here on GitHub, soon.
 
-Our product roadmap is our best estimate of what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Please post them on our [community forums](https://github.community/).
+Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Join the discussion over on the [GitHub Community Forum](https://github.community/).
 
 ## Guide to the Roadmap
 
