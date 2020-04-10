@@ -16,9 +16,9 @@ Every item on the GitHub product roadmap is an issue, with a label that indicate
 
 - One or more **deployment models** (cloud and/or server). Where not stated, features will generally come out cloud first, and follow on server at or soon after GA.
 
-## Feature Stages
+## Release phases
 
-Every feature goes through a set of stages, from early testing to general availability.
+Every product or feature goes through a set of release phases, from early testing to general availability.
 
 - **alpha:** *Primarily for testing and feedback*\
 Limited availability, requires pre-release agreement. Features still under heavy development, and subject to change. Not for production use, and no documentation, SLAs or support provided.
