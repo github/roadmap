@@ -8,7 +8,7 @@ Our product roadmap is where you can learn about what features we're working on,
 
 Every item on the GitHub product roadmap is an issue, with a label that indicates each of the following:
 
-- A **feature stage** that describes the next expected stage of the roadmap item. See below for a guide to product stages. 
+- A **release phase** that describes the next expected phase of the roadmap item. See below for a guide to release phases. 
 
 - A **feature area** that indicates the area of the product to which the item belongs. For a list of current product areas, see below.
 
