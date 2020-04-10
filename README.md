@@ -10,8 +10,6 @@ Every item on the GitHub product roadmap is an issue, with a label that indicate
 
 - A **feature stage** that describes the next expected stage of the roadmap item. See below for a guide to product stages. 
 
-- A **milestone** that indicates the quarter in which we expect to deliver the next stage of the feature. You can also use the Project tab to see a milestone-by-milestone view.
-
 - A **feature area** that indicates the area of the product to which the item belongs. For a list of current product areas, see below.
 
 - One or more **product SKU** labels that indicate which product SKUs we expect the feature to be available in. For a list of current product SKUs, see below.
