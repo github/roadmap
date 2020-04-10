@@ -39,9 +39,9 @@ Feature in discovery phase. We have decided to build this feature, but are still
 - **exploring:**\
 Feature under consideration. We are considering building this feature, and gathering feedback on it.
 
-## Milestones
+## Roadmap stages
 
-The GitHub product roadmap is arranged on a quarter-by-quarter basis. Every feature is labeled with a quarter in which we expect to deliver the next stage of the feature. The indicated milestone is our best known estimate, and may change as we do development.
+The GitHub product roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column, often starting with **Long term** and moving through **Mid-term**, **Coming Soon**, **Coming Next**, and finally **Shipped** as development progresses. 
 
 GitHub Enterprise Server has major releases on a quarterly basis, and minor releases on a monthly basis. Once we know what version we are delivering a feature, we will update the issue to indicate that information.
 
