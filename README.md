@@ -6,7 +6,7 @@ Our product roadmap is where you can learn about what features we're working on,
 
 ## Guide to the Roadmap
 
-Every item on the GitHub product roadmap is an issue, twith a label that indicates each of the following:
+Every item on the GitHub product roadmap is an issue, with a label that indicates each of the following:
 
 - A **feature stage** that describes the next expected stage of the roadmap item. See below for a guide to product stages. 
 
