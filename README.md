@@ -1,12 +1,12 @@
-# GitHub Product Roadmap
+# GitHub public roadmap
 
-In this repo, you can find the [official GitHub product roadmap](https://github.com/github/roadmap/projects/1). The roadmap is currently in a read-only state, with locked conversations, as we get started. However, we anticipate being able to engage more in discussions about the future of GitHub products and features, here on GitHub, soon.
+In this repo, you can find the [official GitHub public roadmap](https://github.com/github/roadmap/projects/1). The roadmap is currently in a read-only state, with locked conversations, as we get started. However, we anticipate being able to engage more in discussions about the future of GitHub products and features, here on GitHub, soon.
 
 Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Join the discussion over on the [GitHub Community Forum](https://github.community/).
 
-## Guide to the Roadmap
+## Guide to the roadmap
 
-Every item on the GitHub product roadmap is an issue, with a label that indicates each of the following:
+Every item on the roadmap is an issue, with a label that indicates each of the following:
 
 - A **release phase** that describes the next expected phase of the roadmap item. See below for a guide to release phases. 
 
@@ -39,7 +39,7 @@ Feature under consideration. We are considering building this feature, and gathe
 
 ## Roadmap stages
 
-The GitHub product roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column, often starting with **Long term** and moving through **Mid-term**, **Coming Soon**, **Coming Next**, and finally **Shipped** as development progresses. 
+The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column, often starting with **Long term** and moving through **Mid-term**, **Coming Soon**, **Coming Next**, and finally **Shipped** as development progresses. 
 
 GitHub Enterprise Server has major releases on a quarterly basis, and minor releases on a monthly basis. Once we know what version we are delivering a feature, we will update the issue to indicate that information.
 
