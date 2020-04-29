@@ -12,6 +12,8 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 
 - A **feature area** that indicates the area of the product to which the item belongs. For a list of current product areas, see below.
 
+- A **feature** that indicates the feature or product to which the item belongs. For a list of current features, see below. 
+
 - One or more **product SKU** labels that indicate which product SKUs we expect the feature to be available in. For a list of current product SKUs, see below.
 
 - One or more **deployment models** (cloud and/or server). Where not stated, features will generally come out cloud first, and follow on server at or soon after GA.
@@ -60,6 +62,15 @@ The following is a list of our current product areas:
 - **insights:** Continuous learning and insights features
 - **client-apps:** Client applications (Desktop, Mobile)
 - **other:** Other features
+
+## Feature
+
+The following is a list of our current features and products, with distinct labels for filtering:
+
+- **actions:** GitHub Actions
+- **packages:** GitHub Packages
+
+_More labels will be added in the future as needed._
 
 ## Product SKUs 
 
