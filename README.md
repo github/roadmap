@@ -58,6 +58,7 @@ The following is a list of our current product areas:
 - **ecosystem:** Ecosystem and API features
 - **learning:** Education and learning features
 - **insights:** Continuous learning and insights features
+- **client-apps:** Client applications (Desktop, Mobile)
 - **other:** Other features
 
 ## Product SKUs 
