@@ -41,7 +41,7 @@ Feature under consideration. We are considering building this feature, and gathe
 
 ## Roadmap stages
 
-The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column, often starting with **Long term** and moving through **Mid-term**, **Coming Soon**, **Coming Next**, and finally **Shipped** as development progresses. 
+The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column according to the quarter in which it is expected to ship next.
 
 GitHub Enterprise Server has major releases on a quarterly basis, and minor releases on a monthly basis. Once we know what version we are delivering a feature, we will update the issue to indicate that information.
 
