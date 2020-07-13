@@ -1,6 +1,6 @@
 # GitHub public roadmap
 
-In this repo, you can find the [official GitHub public roadmap](https://github.com/github/roadmap/projects/1). The roadmap is currently in a read-only state, with locked conversations, as we get started. However, we anticipate being able to engage more in discussions about the future of GitHub products and features, here on GitHub, soon.
+In this repository, you can find the [official GitHub public roadmap](https://github.com/github/roadmap/projects/1). The roadmap is currently in a read-only state, with locked conversations, as we get started. However, we anticipate being able to engage more in discussions about the future of GitHub products and features, here on GitHub, soon.
 
 Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Join the discussion over on the [GitHub Community Forum](https://github.community/) or share your feedback via [GitHub Support](https://support.github.com/contact/feedback).
 
@@ -41,7 +41,7 @@ Feature under consideration. We are considering building this feature, and gathe
 
 ## Roadmap stages
 
-The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column according to the quarter in which it is expected to ship next.
+The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column according to the quarter in which it is expected to ship next. Be sure to read the [disclaimer](#disclaimer) below since the roadmap is subject to change, especially further out on the timeline.
 
 GitHub Enterprise Server has major releases on a quarterly basis, and minor releases on a monthly basis. Once we know what version we are delivering a feature, we will update the issue to indicate that information.
 
@@ -49,7 +49,7 @@ GitHub Enterprise Server has major releases on a quarterly basis, and minor rele
 
 The following is a list of our current product areas:
 
-- **code:** Code experiences (Repos, Pull Requests, Gists)
+- **code:** Code experiences (Repositories, Pull Requests, Gists)
 - **planning:** Planning and tracking tools (Issues, Projects)
 - **code-to-cloud:** Code-to-cloud DevOps (Actions, Packages)
 - **collaboration:** Collaboration features (Pages, Wikis, Discussions)
@@ -86,9 +86,9 @@ The following is a list of our current product SKUs.
 
 ## Disclaimer 
 
-Any statement in this repo that is not purely
+Any statement in this repository that is not purely
 historical is considered a forward-looking statement.
-Forward looking statements included in the presentation
+Forward looking statements included in this repository
 are based on information available to GitHub as of the date
 hereof, and GitHub assumes no obligation to update any
 forward-looking statements. The forward looking product
