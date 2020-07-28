@@ -68,7 +68,9 @@ The following is a list of our current product areas:
 The following is a list of our current features and products, with distinct labels for filtering:
 
 - **actions:** GitHub Actions
+- **docs:** GitHub Docs
 - **packages:** GitHub Packages
+- **pages:** GitHub Pages
 
 _More labels will be added in the future as needed._
 
