@@ -56,7 +56,7 @@ The following is a list of our current product areas:
 - **security & compliance:** Code security and compliance features
 - **admin-server:** Administrative features specific to GitHub Enterprise Server
 - **admin-cloud:** Administrative features specific to GitHub Cloud
-- **community:** Community and social features
+- **communities:** Community and social features
 - **ecosystem:** Ecosystem and API features
 - **learning:** Education and learning features
 - **insights:** Continuous learning and insights features
