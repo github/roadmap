@@ -18,9 +18,11 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 
 - One or more **deployment models** (cloud, server, and/or ae). Where not stated, features will generally come out Cloud first, and follow on Server and GHAE at or soon after GA.
 
+- Once a feature is delivered, the **shipped** label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant [Changelog](https://github.blog/changelog/) post.
+
 ## Release phases
 
-Every product or feature goes through a set of release phases, from early testing to general availability.
+Release phases indicate the stages that the product or feature goes through, from early testing to general availability.
 
 - **alpha:** *Primarily for testing and feedback*\
 Limited availability, requires pre-release agreement. Features still under heavy development, and subject to change. Not for production use, and no documentation, SLAs or support provided.
