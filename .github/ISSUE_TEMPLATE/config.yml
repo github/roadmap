@@ -3,6 +3,6 @@ contact_links:
   - name: GitHub Community Forum
     url: https://github.community/
     about: Ask questions and discuss the roadmap here.
-  - name: GitHub Support - Feedback
-    url: https://support.github.com/contact/feedback
+  - name: GitHub Feedback
+    url: https://github.com/github/feedback/discussions
     about: Share your feedback with the GitHub team.
