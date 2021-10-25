@@ -1,8 +1,12 @@
 # GitHub public roadmap
 
-In this repository, you can find the [official GitHub public product roadmap](https://github.com/github/roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Join the discussion over on the [GitHub Community Forum](https://github.community/) or share your feedback via the [GitHub public feedback discussions](https://github.com/github/feedback/discussions) page. 
+:sparkle: View the [official GitHub public product roadmap](https://github.com/orgs/github/projects/4247)[^1]
 
-The roadmap repository is for communicating GitHub’s roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through this [Share feedback](https://support.github.com/contact/feedback?category=other&subject=GitHub+public+roadmap) page.
+Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via [GitHub public feedback discussions](https://github.com/github/feedback/discussions). 
+
+[^1]:We've begun adopting the latest beta features of GitHub projects for the public roadmap. The [roadmap project board](https://github.com/github/roadmap/projects/1) within this repository remains and is still accurate. In the future we expect to fully transition the latest features of GitHub projects. 
+
+The roadmap repository is for communicating GitHub’s roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through [general feedback in GitHub public feedback discussions](https://github.com/github/feedback/discussions/new?category=General-Feedback).
 
 ## Guide to the roadmap
 
