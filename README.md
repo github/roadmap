@@ -52,9 +52,9 @@ Some features may be marked with a GHES 3.X label, which indicates that the feat
 **GHES release version dates**:
 | **Version Number** | **Release Quarter** |
 |-|-|
-| 3.5 | Q2 2022 (FYQ4 2022) |
-| 3.6 | Q3 2022 (FYQ1 2023) |
-| 3.7 | Q4 2022 (FYQ2 2023) |
+| 3.5 | Q2 2022 |
+| 3.6 | Q3 2022 |
+| 3.7 | Q4 2022 |
 
 ## Roadmap stages
 
