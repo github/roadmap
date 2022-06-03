@@ -45,6 +45,17 @@ Feature in discovery phase. We have decided to build this feature, but are still
 - **exploring:**\
 Feature under consideration. We are considering building this feature, and gathering feedback on it.
 
+## Release phases - For GHES
+
+Some features may be marked with a GHES 3.X label, which indicates that the feature will also become available for Github Enterprise Server customers. Below are the release version numbers and expected release quarters (_Note: these dates are subject to change_). 
+
+**GHES release version dates**:
+| **Version Number** | **Release Quarter** |
+|-|-|
+| 3.5 | Q2 2022 (FYQ4 2022) |
+| 3.6 | Q3 2022 (FYQ1 2023) |
+| 3.7 | Q4 2022 (FYQ2 2023) |
+
 ## Roadmap stages
 
 The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column according to the quarter in which it is expected to ship next. Be sure to read the [disclaimer](#disclaimer) below since the roadmap is subject to change, especially further out on the timeline.  You'll also find an **Exploratory** column, which is used in conjunction with the **in design** and **exploring** release phase labels for when no timeframe is yet available.
