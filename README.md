@@ -50,11 +50,12 @@ Feature under consideration. We are considering building this feature, and gathe
 Some features may be marked with a GHES 3.X label, which indicates that the feature will also become available for Github Enterprise Server customers. Below are the release version numbers and expected release quarters (_Note: these dates are subject to change_). 
 
 **GHES release version dates**:
-| **Version Number** | **Release Quarter** |
-|-|-|
-| 3.5 | Q2 2022 |
-| 3.6 | Q3 2022 |
-| 3.7 | Q4 2022 |
+| **Version Number** | **Release Quarter** | **Release Notes** |
+|-|-|-|
+| 3.5 | Q2 2022 | [Release Notes](https://docs.github.com/en/enterprise-server@3.5/admin/release-notes) |
+| 3.6 | Q3 2022 | - |
+| 3.7 | Q4 2022 | - |
+| 3.7 | Q1 2023 | - |
 
 ## Roadmap stages
 
