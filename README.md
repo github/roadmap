@@ -55,7 +55,7 @@ Some features may be marked with a GHES 3.X label, which indicates that the feat
 | 3.5 | Q2 2022 | [Release Notes](https://docs.github.com/en/enterprise-server@3.5/admin/release-notes) |
 | 3.6 | Q3 2022 | - |
 | 3.7 | Q4 2022 | - |
-| 3.7 | Q1 2023 | - |
+| 3.8 | Q1 2023 | - |
 
 ## Roadmap stages
 
