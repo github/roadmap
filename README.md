@@ -55,8 +55,16 @@ Some features may be marked with a GHES 3.X label, which indicates that the feat
 |-|-|-|
 | 3.5 | Q2 2022 | [Release Notes](https://docs.github.com/en/enterprise-server@3.5/admin/release-notes) |
 | 3.6 | Q3 2022 | [Release Notes](https://docs.github.com/en/enterprise-server@3.6/admin/release-notes) |
-| 3.7 | Q4 2022 | - |
-| 3.8 | Q1 2023 | - |
+| 3.7 | Q4 2022 | [Release Notes](https://docs.github.com/en/enterprise-server@3.7/admin/release-notes) |
+| 3.8 | Q1 2023 | [Release Notes](https://docs.github.com/en/enterprise-server@3.8/admin/release-notes) |
+| 3.9 | Q2 2023 | [Release Notes](https://docs.github.com/en/enterprise-server@3.9/admin/release-notes) |
+| 3.10 | Q3 2023 | [Release Notes](https://docs.github.com/en/enterprise-server@3.10/admin/release-notes) |
+| 3.11 | Q4 2023 | [Release Notes](https://docs.github.com/en/enterprise-server@3.11/admin/release-notes) |
+| 3.12 | Q1 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.12/admin/release-notes) |
+| 3.13 | Q2 2024 | - |
+| 3.14 | Q3 2024 | - |
+| 3.15 | Q4 2024 | - |
+
 
 ## Roadmap stages
 
