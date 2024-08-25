@@ -1,0 +1,265 @@
+From c908c75bad6e9e44bac0594d1c8b3e9308e69aa2 Mon Sep 17 00:00:00 2001
+From: Sarsilmazxx02 <Recocankaya@gmail.com>
+Date: Mon, 26 Aug 2024 00:48:29 +0300
+Subject: [PATCH] Update README.md
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+# GitHub public roadmap
+
+:sparkle: View the [official GitHub public product roadmap](https://github.com/orgs/github/projects/4247)[^1]
+
+Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via [GitHub public feedback discussions](https://github.com/github/feedback/discussions).
+
+[^1]:We've adopted the latest [beta features of GitHub projects](https://github.com/features/issues) for the [public roadmap](https://github.com/orgs/github/projects/4247). The [roadmap project board](https://github.com/github/roadmap/projects/
+[schedule.json](https://github.com/user-attachments/files/16742031/schedule.json)
+
+
+1) within this repository is now closed.
+
+The roadmap repository is for communicating GitHub’s roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through [general feedback in GitHub public feedback discussions](https://github.com/github/feedback/discussions/new?category=General-Feedback&title=[Public%20roadmap]%20).
+
+
+## Guide to the roadmap
+
+Every item on the roadmap is an issue, with a label that indicates each of the following:
+
+- A **release phase** that describes the next expected phase of the roadmap item. See below for a guide to release phases.
+
+- A **feature `[2024-02-08.md](https://github.com/user-attachments/files/16742034/2024-02-08.md)
+`area** that indicates the area of the product to which the item belongs. For a list of current product areas, see below.
+
+- A **`feature[GOVERNANCE.md](https://github.com/user-attachments/files/16742036/GOVERNANCE.md)
+`** that indicates the feature or product to which the item belongs. For a list of current features, see below.
+
+- One or more **`product [CODE_OF_CONDUCT.md](https://github.com/user-attachments/files/16742039/CODE_OF_CONDUCT.md)
+  SKU`** labels that indicate which product SKUs we expect the feature to be available in. For a list of current product SKUs, see below.
+
+- One or more **deployment models** (cloud,`[CONTRIBUTING.md](https://github.com/user-attachments/files/16742040/CONTRIBUTING.md)
+` server, and/or ae). Where not stated, features will generally come out Cloud first, and follow on Server and GHAE at or soon after GA.
+
+- Once a feature is delivered, the **shipped** label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant [Changelog](https://github.blog/changelog/) post.
+
+## Release phases
+
+Release phases indicate the stages that the product or feature goes through, from early testing to general availability.
+
+- **alpha:`[CODE_OF_CONDUCT.md](https://github.com/user-attachments/files/16742043/CODE_OF_CONDUCT.md)
+`** *Primarily for testing and feedback*\
+Limited availability, requires pre-release agreement. Features still under heavy development, and subject to change. Not for production use, and no documentation, SLAs or support provided.
+
+- **beta:`![jumper_logo_horizontal_mode_dark_mono](https://github.com/user-attachments/assets/c3a0c7e0-2034-47ef-97ba-e1e70e82f28a)
+`** *Publicly available in full or limited capacity*\
+Features mostly complete and documented. Timeline and requirements for GA usually published. No SLAs or support provided.
+
+- **ga:`![jumper_logo_mark_mode_dark](https://github.com/user-attachments/assets/67962a81-9e03-499d-8614-b806d8970a39)
+`** *Generally available to all customers*\
+Ready for production use with associated SLA and technical support obligations. Approximately 1-2 quarters from Beta.
+
+Some of our features may still be in the exploratory stages, and have no timeframe available. These are included in the roadmap only for early feedback. These are marked as follows:
+
+- **in design:`![jumper_logo_vertical_mode_dark_mono](https://github.com/user-attachments/assets/ffa3b186-e521-4e06-b9ae-fe683d437864)
+`**\
+Feature in discovery phase. We have decided to build this feature, but are still figuring out _how_.
+
+- **exploring:**\
+Feature under consideration. We are considering building this feature, and gathering feedback on it.`~![jumper_logo_vertical_mode_light](https://github.com/user-attachments/assets/97aa9e5f-da7f-4dc4-88a6-22460baeb79f)
+`
+
+## Release phases - For GHES
+
+Some features may be marked with a GHES 3.X label, which indicates that the feature will also become available for Github Enterprise Server customers. Below are the release version numbers and expected release quarters (_Note: these dates are subject to change_).
+
+**GHES release version dates**:
+| **Version Number`![jumper_logo_word_mode_light](https://github.com/user-attachments/assets/0ef012de-9a3a-4318-a84b-14b39eca05a8)
+** | **Release Quarter** | **Release Notes** |
+|![jumper_logo_word_mode_dark](https://github.com/user-attachments/assets/fe255c6e-43e4-4805-a154-f4b628fe393e)
+-|-|-|
+| 3.12 | Q1 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.12/admin/release-notes#3.12.0)|
+| 3.13 | Q2 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.13/admin/release-notes#3.13.0)|
+| 3.14 | Q3 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.14/admin/release-notes) |
+| 3.15 | Q4 2024 | -- |
+
+## Roadmap stages
+
+The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column according to the quarter in which it is expected to ship next. Be sure to read the [disclaimer](#disclaimer) below since the roadmap is subject to change, especially further out on the timeline.  You'll also find an **Exploratory** column, which is used in conjunction with the **in design** and **exploring** release phase labels for when no timeframe is yet available.
+
+GitHub Enterprise Server has major releases on a quarterly basis, and minor releases on a monthly basis. Once we know what version we are delivering a feature, we will update the issue to indicate that information.
+
+## Feature Areas
+
+The following is a list of our current product areas:
+
+- **code:** Code experiences (Repositories, Pull Requests, Gists)
+- **planning:** Planning and tracking tools (Issues, Projects)
+- **code-to-cloud:** Code-to-cloud DevOps (Actions, Packages)
+- **collaboration:** Collaboration features (Pages, Wikis, Discussions)
+- **security & compliance:** Code security and compliance features
+- **admin-server:** Administrative features specific to GitHub Enterprise Server
+- **admin-cloud:** Administrative features specific to GitHub Cloud
+- **communities:** Community and social features
+- **ecosystem:** Ecosystem and API features
+- **learning:** Education and learning features
+- **insights:** Continuous learning and insights features
+- **client-apps:** Client applications (Desktop, Mobile)
+- **other:** Other features
+
+## Feature
+
+The following is a list of our current features and products, with distinct labels for filtering:
+
+- **actions:[PULL_REQUEST_TEMPLATE.md](https://github.com/user-attachments/files/16742059/PULL_REQUEST_TEMPLATE.md)
+** GitHub Actions
+- **docs:[gui_issue.md](https://github.com/user-attachments/files/16742060/gui_issue.md)
+** GitHub Docs
+- **packages:** GitHub Packages
+- **pages:** GitHub Pages
+
+_More labels will be added in the future as needed._
+
+## Product SKUs
+
+The following is a list of our current product SKUs.
+
+- **all:[release-notes-0.21.3.md](https://github.com/user-attachments/files/16742063/release-notes-0.21.3.md)
+** Available to all users, including a free tier. Different SKUs may have different levels of functionality.
+- **github team:[binance-connector-node-3.4.1.tar.gz](https://github.com/user-attachments/files/16742065/binance-connector-node-3.4.1.tar.gz)
+** GitHub Team
+- **github enterprise:[release-notes-0.21.2.md](https://github.com/user-attachments/files/16742069/release-notes-0.21.2.md)
+** GitHub Enterprise (Cloud and Server)
+- **github one:[release-notes-0.13.3.md](https://github.com/user-attachments/files/16742067/release-notes-0.13.3.md)
+** GitHub One (Cloud and Server)
+- **github ae:** GitHub AE (GHAE)
+- **github advanced security:[release-notes-0.21.1.md](https://github.com/user-attachments/files/16742071/release-notes-0.21.1.md)
+** GitHub Advanced Security (add-on to GHE)
+- **github insights:** GitHub Insights (add-on to GHE)
+- **github learning lab:** GitHub Learning Lab (add-on to GHE)
+
+## Disclaimer
+
+Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to GitHub as of the date they are made, and GitHub assumes no obligation to update any forward-looking statements. The forward-looking product roadmap does not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and is intended to outline the general development plans. Customers should not rely on this roadmap to make any purchasing decision.
+---
+ README.md | 60 +++++++++++++++++++++++++++++++++++++------------------
+ 1 file changed, 41 insertions(+), 19 deletions(-)
+
+diff --git a/README.md b/README.md
+index f2ae321..baea814 100644
+--- a/README.md
++++ b/README.md
+@@ -4,7 +4,11 @@
+ 
+ Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via [GitHub public feedback discussions](https://github.com/github/feedback/discussions). 
+ 
+-[^1]:We've adopted the latest [beta features of GitHub projects](https://github.com/features/issues) for the [public roadmap](https://github.com/orgs/github/projects/4247). The [roadmap project board](https://github.com/github/roadmap/projects/1) within this repository is now closed. 
++[^1]:We've adopted the latest [beta features of GitHub projects](https://github.com/features/issues) for the [public roadmap](https://github.com/orgs/github/projects/4247). The [roadmap project board](https://github.com/github/roadmap/projects/
++[schedule.json](https://github.com/user-attachments/files/16742031/schedule.json)
++
++
++1) within this repository is now closed. 
+ 
+ The roadmap repository is for communicating GitHub’s roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through [general feedback in GitHub public feedback discussions](https://github.com/github/feedback/discussions/new?category=General-Feedback&title=[Public%20roadmap]%20).
+ 
+@@ -15,13 +19,17 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
+ 
+ - A **release phase** that describes the next expected phase of the roadmap item. See below for a guide to release phases. 
+ 
+-- A **feature area** that indicates the area of the product to which the item belongs. For a list of current product areas, see below.
++- A **feature `[2024-02-08.md](https://github.com/user-attachments/files/16742034/2024-02-08.md)
++`area** that indicates the area of the product to which the item belongs. For a list of current product areas, see below.
+ 
+-- A **feature** that indicates the feature or product to which the item belongs. For a list of current features, see below. 
++- A **`feature[GOVERNANCE.md](https://github.com/user-attachments/files/16742036/GOVERNANCE.md)
++`** that indicates the feature or product to which the item belongs. For a list of current features, see below. 
+ 
+-- One or more **product SKU** labels that indicate which product SKUs we expect the feature to be available in. For a list of current product SKUs, see below.
++- One or more **`product [CODE_OF_CONDUCT.md](https://github.com/user-attachments/files/16742039/CODE_OF_CONDUCT.md)
++  SKU`** labels that indicate which product SKUs we expect the feature to be available in. For a list of current product SKUs, see below.
+ 
+-- One or more **deployment models** (cloud, server, and/or ae). Where not stated, features will generally come out Cloud first, and follow on Server and GHAE at or soon after GA.
++- One or more **deployment models** (cloud,`[CONTRIBUTING.md](https://github.com/user-attachments/files/16742040/CONTRIBUTING.md)
++` server, and/or ae). Where not stated, features will generally come out Cloud first, and follow on Server and GHAE at or soon after GA.
+ 
+ - Once a feature is delivered, the **shipped** label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant [Changelog](https://github.blog/changelog/) post.
+ 
+@@ -29,30 +37,37 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
+ 
+ Release phases indicate the stages that the product or feature goes through, from early testing to general availability.
+ 
+-- **alpha:** *Primarily for testing and feedback*\
++- **alpha:`[CODE_OF_CONDUCT.md](https://github.com/user-attachments/files/16742043/CODE_OF_CONDUCT.md)
++`** *Primarily for testing and feedback*\
+ Limited availability, requires pre-release agreement. Features still under heavy development, and subject to change. Not for production use, and no documentation, SLAs or support provided.
+ 
+-- **beta:** *Publicly available in full or limited capacity*\
++- **beta:`![jumper_logo_horizontal_mode_dark_mono](https://github.com/user-attachments/assets/c3a0c7e0-2034-47ef-97ba-e1e70e82f28a)
++`** *Publicly available in full or limited capacity*\
+ Features mostly complete and documented. Timeline and requirements for GA usually published. No SLAs or support provided.
+ 
+-- **ga:** *Generally available to all customers*\
++- **ga:`![jumper_logo_mark_mode_dark](https://github.com/user-attachments/assets/67962a81-9e03-499d-8614-b806d8970a39)
++`** *Generally available to all customers*\
+ Ready for production use with associated SLA and technical support obligations. Approximately 1-2 quarters from Beta.
+ 
+ Some of our features may still be in the exploratory stages, and have no timeframe available. These are included in the roadmap only for early feedback. These are marked as follows: 
+ 
+-- **in design:**\
++- **in design:`![jumper_logo_vertical_mode_dark_mono](https://github.com/user-attachments/assets/ffa3b186-e521-4e06-b9ae-fe683d437864)
++`**\
+ Feature in discovery phase. We have decided to build this feature, but are still figuring out _how_.
+ 
+ - **exploring:**\
+-Feature under consideration. We are considering building this feature, and gathering feedback on it.
++Feature under consideration. We are considering building this feature, and gathering feedback on it.`~![jumper_logo_vertical_mode_light](https://github.com/user-attachments/assets/97aa9e5f-da7f-4dc4-88a6-22460baeb79f)
++`
+ 
+ ## Release phases - For GHES
+ 
+ Some features may be marked with a GHES 3.X label, which indicates that the feature will also become available for Github Enterprise Server customers. Below are the release version numbers and expected release quarters (_Note: these dates are subject to change_). 
+ 
+ **GHES release version dates**:
+-| **Version Number** | **Release Quarter** | **Release Notes** |
+-|-|-|-|
++| **Version Number`![jumper_logo_word_mode_light](https://github.com/user-attachments/assets/0ef012de-9a3a-4318-a84b-14b39eca05a8)
++** | **Release Quarter** | **Release Notes** |
++|![jumper_logo_word_mode_dark](https://github.com/user-attachments/assets/fe255c6e-43e4-4805-a154-f4b628fe393e)
++-|-|-|
+ | 3.12 | Q1 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.12/admin/release-notes#3.12.0)|
+ | 3.13 | Q2 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.13/admin/release-notes#3.13.0)|
+ | 3.14 | Q3 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.14/admin/release-notes) |
+@@ -86,8 +101,10 @@ The following is a list of our current product areas:
+ 
+ The following is a list of our current features and products, with distinct labels for filtering:
+ 
+-- **actions:** GitHub Actions
+-- **docs:** GitHub Docs
++- **actions:[PULL_REQUEST_TEMPLATE.md](https://github.com/user-attachments/files/16742059/PULL_REQUEST_TEMPLATE.md)
++** GitHub Actions
++- **docs:[gui_issue.md](https://github.com/user-attachments/files/16742060/gui_issue.md)
++** GitHub Docs
+ - **packages:** GitHub Packages
+ - **pages:** GitHub Pages
+ 
+@@ -97,12 +114,17 @@ _More labels will be added in the future as needed._
+ 
+ The following is a list of our current product SKUs. 
+ 
+-- **all:** Available to all users, including a free tier. Different SKUs may have different levels of functionality.
+-- **github team:** GitHub Team
+-- **github enterprise:** GitHub Enterprise (Cloud and Server)
+-- **github one:** GitHub One (Cloud and Server)
++- **all:[release-notes-0.21.3.md](https://github.com/user-attachments/files/16742063/release-notes-0.21.3.md)
++** Available to all users, including a free tier. Different SKUs may have different levels of functionality.
++- **github team:[binance-connector-node-3.4.1.tar.gz](https://github.com/user-attachments/files/16742065/binance-connector-node-3.4.1.tar.gz)
++** GitHub Team
++- **github enterprise:[release-notes-0.21.2.md](https://github.com/user-attachments/files/16742069/release-notes-0.21.2.md)
++** GitHub Enterprise (Cloud and Server)
++- **github one:[release-notes-0.13.3.md](https://github.com/user-attachments/files/16742067/release-notes-0.13.3.md)
++** GitHub One (Cloud and Server)
+ - **github ae:** GitHub AE (GHAE)
+-- **github advanced security:** GitHub Advanced Security (add-on to GHE)
++- **github advanced security:[release-notes-0.21.1.md](https://github.com/user-attachments/files/16742071/release-notes-0.21.1.md)
++** GitHub Advanced Security (add-on to GHE)
+ - **github insights:** GitHub Insights (add-on to GHE)
+ - **github learning lab:** GitHub Learning Lab (add-on to GHE)
+ 
