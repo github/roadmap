@@ -6,7 +6,7 @@ Our product roadmap is where you can learn about what features we're working on,
 
 [^1]:We've adopted the latest [beta features of GitHub projects](https://github.com/features/issues) for the [public roadmap](https://github.com/orgs/github/projects/4247). The [roadmap project board](https://github.com/github/roadmap/projects/1) within this repository is now closed. 
 
-The roadmap repository is for communicating GitHub’s roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through [general feedback in GitHub public feedback discussions](https://github.com/github/feedback/discussions/new?category=General-Feedback&title=[Public%20roadmap]%20).
+The roadmap repository is for communicating GitHub’s roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through [general feedback in GitHub public feedback discussions](https://github.com/orgs/community/discussions/new?category=general).
 
 
 ## Guide to the roadmap
